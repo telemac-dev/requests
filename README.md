@@ -1,6 +1,6 @@
 # Requests
 
-**Requests** is a simple, yet elegant, HTTP library.
+**Requests** is a very simple, yet elegant, HTTP library.
 
 ```python
 >>> import requests
@@ -58,6 +58,7 @@ Requests is ready for the demands of building robust and reliable HTTP–speakin
 [![Read the Docs](https://raw.githubusercontent.com/psf/requests/main/ext/ss.png)](https://requests.readthedocs.io)
 
 ## Cloning the repository
+
 
 When cloning the Requests repository, you may need to add the `-c
 fetch.fsck.badTimezone=ignore` flag to avoid an error about a bad commit (see
